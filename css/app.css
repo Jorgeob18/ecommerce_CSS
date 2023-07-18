@@ -6,3 +6,23 @@ h1 {
 h1 span {
   color: #2f96db;
 }
+
+/* h2 span {
+  color: aquamarine;
+} */
+
+/* nav a:first-child {
+  text-transform: uppercase;
+} */
+
+/* nav a:nth-child(2) {
+  color: #db2f8b;
+} */
+
+footer a {
+  text-transform: uppercase;
+}
+
+a {
+  text-transform: lowercase;
+}
